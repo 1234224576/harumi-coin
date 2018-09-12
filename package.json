@@ -1,0 +1,26 @@
+{
+  "name": "harumi-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1234224576/harumi-coin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1234224576/harumi-coin/issues"
+  },
+  "homepage": "https://github.com/1234224576/harumi-coin#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "openzeppelin-solidity": "^2.0.0-rc.1"
+  }
+}
